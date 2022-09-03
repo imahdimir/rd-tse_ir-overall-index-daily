@@ -1,3 +1,5 @@
 {
-    "description": ""
+    "desc": "TSE Overall Index",
+    "src": "https://tse.ir/archive.html#/cash",
+    "freq": "Daily"
 }
